@@ -1,13 +1,13 @@
 {
-    "party": [
-        {
-            "id": 1,
-            "childName": "Timmy",
-            "parentName": "Wendy",
-            "numOfKids": 10,
-            "address": "700 street lane",
-            "date": "12/12/2021",
-            "partyLengthHours": 3
-        }
-    ]
+  "party": [
+    {
+      "childName": "timmy",
+      "parentName": "wendy",
+      "numOfKids": "50000",
+      "address": "100 street lane",
+      "date": "2021-12-20",
+      "partyLengthHours": "5",
+      "id": 1
+    }
+  ]
 }
