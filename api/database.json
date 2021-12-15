@@ -1,0 +1,13 @@
+{
+    "party": [
+        {
+            "id": 1,
+            "childName": "Timmy",
+            "parentName": "Wendy",
+            "numOfKids": 10,
+            "address": "700 street lane",
+            "date": "12/12/2021",
+            "partyLengthHours": 3
+        }
+    ]
+}
